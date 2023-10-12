@@ -7,6 +7,7 @@ This project includes Unit, Integration & Acceptance tests for a simple Spring B
 ## Unit tests
 Testing individual piece of code.
 
+
 ## Integration tests
 Testing integration of units together.
 
